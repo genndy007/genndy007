@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📫 Reach me on [Telegram](https://t.me/vimacs), [E-Mail](mailto:kochevgenazp@gmail.com), [LinkedIn](https://www.linkedin.com/in/hennadii-kochev-40364b192/)
 
-- 🔭 I’m currently working with Data Science Python libraries
-- 🌱 I’m currently learning TypeScript and Nest.js to never be a Data Scientist :)
-- 👯 I’m looking to collaborate with anyone, whenever I have time for it...
-- 🤔 I’m looking for help with finishing [my bachelor study](https://kpi.ua/ru/fiot)
+- 🔭 Nowadays working with Data Science Python libraries
+- 🌱 Currently learning TypeScript and Nest.js to never be a Data Scientist :)
+- 👯 Always looking to collaborate with anyone, whenever I have time for it...
+- 🤔 Last 2 years looking for help with finishing [my bachelor study](https://kpi.ua/ru/fiot)
