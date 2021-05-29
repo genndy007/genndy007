@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 
 - 🔭 Nowadays working with Data Science Python libraries
 - 🌱 Currently learning TypeScript and Nest.js to never be a Data Scientist :)
-- 👯 Always looking to collaborate with anyone, whenever I have time for it...
+- 👯 Already want to move to some Django/Flask :))))))))
+- ⚡ Always looking to collaborate with anyone, whenever I have time for it...
 - 🤔 Last 2 years looking for help with finishing [my bachelor study](https://kpi.ua/ru/fiot)
