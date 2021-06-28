@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 🌱 Currently learning TypeScript and Nest.js to never be a Data Scientist :)
 - 👯 Already want to move to some Django/Flask :))))))))
 - ⚡ Always looking to collaborate with anyone, whenever I have time for it...
-- 🤔 Last 2 years looking for help with finishing [my bachelor study](https://kpi.ua/ru/fiot)
+- 🤔 2 years of [my bachelor study](https://kpi.ua/ru/fiot) are over, 2 to go!
