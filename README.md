@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 🔭 Nowadays working with Data Science Python libraries
 - 🌱 Currently learning TypeScript and Nest.js to never be a Data Scientist :)
 - 👯 Already want to move to some Django/Flask :))))))))
-- 👯 Or maybe even to FastAPI, as my comrade say it is better for me and my skills 
+- 👯 Or maybe even to FastAPI, as my comrade says it is better for me and my skills 
 - ⚡ Always looking to collaborate with anyone, whenever I have time for it...
 - 🤔 2 years of [my bachelor study](https://kpi.ua/ru/fiot) are over, 2 to go!
