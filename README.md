@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 - 🤔 3 years of [my bachelor study](https://kpi.ua/ru/fiot) are over, final year ahead!
 
 - 🔭 Nowadays working with Python libraries mostly
-- 🌱 Currently learning Django, Celery, Docker to become a real Backend dev
-- 👯 Want to find a job as Junior Django dev or Junior Python dev, ready to learn and become better
-- 👯 Flask dev or FastAPI dev is also considerable, I am always open to dialog
-- ⚡ Always looking to collaborate with anyone, whenever I have time for it...
+- 🌱 Currently learning Celery, Docker, GCP to become a real professional
+- 👯 Working as a Django/Flask Developer
+- ⚡ Always looking to collaborate with anyone, whenever I have time for it
 
