@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 - 🔭 Nowadays working with Python libraries mostly
 - 🌱 Currently learning Celery, Docker, GCP to become a real professional
-- 👯 Working as a Django/Flask Developer
+- 👯 Already NOT working as a Django/Flask Developer
 - ⚡ Always looking to collaborate with anyone, whenever I have time for it
 
