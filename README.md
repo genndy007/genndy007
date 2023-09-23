@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 - 📫 Reach me on [Telegram](https://t.me/vimacs), [E-Mail](mailto:kochevgenazp@gmail.com), [LinkedIn](https://www.linkedin.com/in/hennadii-kochev-40364b192/)
 
-- 🤔 3 years of [my bachelor study](https://kpi.ua/ru/fiot) are over, final year ahead!
+- 🤔 [My Bachelor degree](https://kpi.ua/ru/fiot) is over, Master degree is ahead!
 
 - 🔭 Nowadays working with Python libraries mostly
-- 🌱 Currently learning Celery, Docker, GCP to become a real professional
-- 👯 Already NOT working as a Django/Flask Developer
+- 🌱 Currently learning Celery, Redis, AWS to become a real professional
+- 👯 Already working as a Python Web Developer, over 1.5 years of commercial experience
 - ⚡ Always looking to collaborate with anyone, whenever I have time for it
 
